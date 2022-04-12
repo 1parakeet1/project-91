@@ -1,0 +1,67 @@
+body
+{
+	background-image: url("m.jpg");
+  
+}
+
+	.div1 , .div2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+		background-image: url("m.jpg");
+		font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	border-radius: 50cm;
+	background-color: black;
+	color: white;
+	text-align: center;
+	font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+	font-weight: bold;
+	
+}
+#ABC{
+	background-color: black;
+	color: white;
+	width: 10%;
+}
+
+	#a1, #a2, #a3, #a4{
+		
+		color: white;
+		width: 60%;
+}
+
+#btn1{
+	width: 10%;
+	background-color: black;
+	color: white;
+}
+
+.sidenav {
+	background-image: url("Untitled-1.jpg");
+	height: 100%; 
+	width: 450px; 
+	position: fixed; 
+	top: 0; 
+	background-color: #111; 
+	background-position: center;
+    background-size: cover;
+	
+}
+	
+#output{
+	background: white;
+	border-radius: 10px;
+	border-top: 10px solid #AA4465;
+	padding: 10px;
+	float: none;
+	text-align: left;
+}
+
